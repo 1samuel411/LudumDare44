@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: 0b8cc84651f08d943be522556a617e4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2815663465034402392
+    second: upper_body
+  - first:
+      213: -741497391446968662
+    second: lower_idle
+  - first:
+      213: 9095638693773345603
+    second: lower_walk1
+  - first:
+      213: 8627189794270554919
+    second: lower_walk2
+  - first:
+      213: 4334783836991956000
+    second: arms
+  - first:
+      213: -6537790858238436542
+    second: _tie
+  - first:
+      213: 4334783836991956000
+    second: arms_walk1
+  - first:
+      213: 7388399842426930641
+    second: arms_walk0
+  - first:
+      213: 50702573100056306
+    second: lower_sit
+  - first:
+      213: 4334783836991956000
+    second: upper_body_sleep
+  - first:
+      213: -693293029088402565
+    second: lower_sleep
+  - first:
+      213: 4844853555787931971
+    second: arm_drink1
+  - first:
+      213: 4026214303743610995
+    second: arm_drink2
+  - first:
+      213: 3615016389654382454
+    second: arm_work0
+  - first:
+      213: 6488678120173780940
+    second: arm_work1
+  - first:
+      213: 2685339456706141288
+    second: arm_work2
+  - first:
+      213: -7008371785903193044
+    second: arm_shoot
+  - first:
+      213: 4334783836991956000
+    second: upper_body_dead
+  - first:
+      213: 7388399842426930641
+    second: lower_die
+  - first:
+      213: -4781603250666261761
+    second: blood
+  - first:
+      213: -7087162726833619325
+    second: lower_dead2
+  - first:
+      213: 8261506567799264155
+    second: flash
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: upper_body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1253e5124380234d957c1c4eeba58a4
+      internalID: -2815663465034402392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lower_idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c101901471b1d884385057b72071a02e
+      internalID: -741497391446968662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lower_walk1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb243997af79fc42b48775ccf8dc3bc
+      internalID: 9095638693773345603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lower_walk2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87254b59de9732499589c663827ea9f
+      internalID: 8627189794270554919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arms
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 11
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994cb4342ecc5d4bb5e6d218f9c1b7f
+      internalID: 4334783836991956000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _tie
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 2
+        height: 8
+      alignment: 9
+      pivot: {x: 0.75, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e075c2d655e6ea4cbae16c31d9b4790
+      internalID: -6537790858238436542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arms_walk1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 18
+        width: 11
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624dfd576060cec409e2becd8af5d114
+      internalID: 4334783836991956000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arms_walk0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 26
+        width: 11
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6d56fedc4ebf49954a305dd630e60
+      internalID: 7388399842426930641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lower_sit
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7e9edc6002e6a44a14fbda1b74c5dc
+      internalID: 50702573100056306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upper_body_sleep
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ef1912a737de46ba7e411f0928007
+      internalID: 4334783836991956000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lower_sleep
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb4b6fcdabe8b439a6e45181ba0f70
+      internalID: -693293029088402565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_drink1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 11
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e0b9c58732974c9c134d040ea1935
+      internalID: 4844853555787931971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_drink2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 15
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f58ff46916e2448285fd82a3be77f
+      internalID: 4026214303743610995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_work0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 21
+        width: 11
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4bd58ce46e1be46ba0ef230c1d13db
+      internalID: 3615016389654382454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_work1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 11
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972c3bf466250045b542bb2c14282d3
+      internalID: 6488678120173780940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_work2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 11
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071481463ddfaa0478835ce80fb54fb4
+      internalID: 2685339456706141288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm_shoot
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0, y: 0.63}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa65201d9b1190c43874f204de27f511
+      internalID: -7008371785903193044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upper_body_dead
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f1a8a8c58e1714890ac719a1d56409
+      internalID: 4334783836991956000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lower_die
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b465fa365156524cb72cf468dfa87dd
+      internalID: 7388399842426930641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 15
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9750c235602f4246b00cb0278ce68a4
+      internalID: -4781603250666261761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lower_dead2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31080dfa9062e004c98503f09304d94a
+      internalID: -7087162726833619325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flash
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ae39d92315c54ebb58aaf93fab8f8
+      internalID: 8261506567799264155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 577d85e9609b95049b78d61f45158747
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
